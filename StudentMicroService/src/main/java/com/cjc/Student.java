@@ -5,6 +5,7 @@ import javax.persistence.Id;
 
 @Entity
 public class Student {
+	//hhgh
 	@Id
 	private int rollno;
 	private String name;
